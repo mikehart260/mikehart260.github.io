@@ -1,0 +1,34 @@
+
+.container {
+    text-align: center;
+}
+#vib_gif {
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+#abstract{
+    padding-top: -500px;
+}
+.block-text{
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: justify;
+}
+
+h1 {
+    color:red;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+
+}
+h4 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
