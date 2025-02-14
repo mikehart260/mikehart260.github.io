@@ -2,6 +2,25 @@
 .container {
     text-align: center;
 }
+.nav-links{
+    text-decoration: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: crimson;
+    color: white;
+}
+
+nav{
+    padding: 20px;
+}
+
+.pdf{
+    align-content: center;
+}
+#poster{
+    padding-bottom: 100px;
+}
 #vib_gif {
     width: 400px;
     height: 400px;
